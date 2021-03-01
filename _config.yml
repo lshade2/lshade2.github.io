@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+pages_list:
+  О блоге: '/about'
+  Архив записей: '/archive'
+  Лента: '/atom.xml'

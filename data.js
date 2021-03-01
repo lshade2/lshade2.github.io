@@ -1,0 +1,4 @@
+mydata = [
+	'hi',
+	'ext js',
+];
